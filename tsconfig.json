@@ -5,9 +5,14 @@
     "jsxImportSource": "react",
     "baseUrl": "./src",
     "paths": {
-      "@/business-layer/*": ["/business-layer/*"],
       "@/components/*": ["/components/*"],
+      "@/contexts/*": ["/contexts/*"],
+      "@/features/*": ["/features/*"],
+      "@/hooks/*": ["/hooks/*"],
       "@/intl/*": ["/intl/*"],
+      "@/layout/*": ["/layout/*"],
+      "@/providers/*": ["/providers/*"],
+      "@/services/*": ["/services/*"],
     }
   }
 }
